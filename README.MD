@@ -5,6 +5,10 @@
 
 ---
 
+This is a submission for Android.
+
+---
+
 by Andrey Drebot
 
 It took around 15-20 hours to complete this project.
